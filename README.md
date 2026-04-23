@@ -52,11 +52,11 @@ The **interactive branching mechanism** is inspired by:
 
 ## Example Interaction
 
-![Story Sample 1](/screenshots/story-sample-1.jpg)
+![Story Sample 1](screenshots/story-sample-1.png)
 
-![Story Sample 2](/screenshots/story-sample-2.jpg)
+![Story Sample 2](screenshots/story-sample-2.png)
 
-![Story Sample 3](/screenshots/story-sample-3.jpg)
+![Story Sample 3](screenshots/story-sample-3.png)
 
 ## Installation and Running the code 
 
